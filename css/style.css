@@ -624,6 +624,12 @@ section {
   font-size: 15px;
 }
 
+  .centro{
+    text-align:center;
+
+
+}
+
 .about .content h3 {
   font-weight: 700;
   font-size: 24px;
@@ -870,18 +876,19 @@ section {
 
 .features .nav-link {
   border: 1px solid #b5ccdb;
-  padding: 15px;
+  padding: 8px;
   transition: 0.3s;
-  color: #15222b;
+  color: #fff;
   border-radius: 0;
   display: flex;
   align-items: center;
   justify-content: center;
+  background: url("../img/inferno.jpg");
 }
 
 .features .nav-link i {
   padding-right: 15px;
-  font-size: 48px;
+  font-size: 36px;
 }
 
 .features .nav-link h4 {
@@ -895,9 +902,12 @@ section {
 }
 
 .features .nav-link.active {
-  background: #FFD700;
+  background: url("../img/inferno.jpg")
   color: #fff;
   border-color: #FFD700;
+}
+.cor{
+  color:#fff;
 }
 
 @media (max-width: 768px) {
