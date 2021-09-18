@@ -1913,7 +1913,7 @@ pre code {
 }
 
 .table .thead-light th {
-  color: #495057;
+  color: #fff;
   background-color: #e9ecef;
   border-color: #dee2e6;
 }
@@ -4278,7 +4278,7 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #fff;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -7062,7 +7062,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 602px) {
   .d-lg-none {
     display: none !important;
   }
@@ -7073,7 +7073,7 @@ button.bg-dark:focus {
     display: inline-block !important;
   }
   .d-lg-block {
-    display: block !important;
+    display: inline-block !important;
   }
   .d-lg-table {
     display: table !important;
