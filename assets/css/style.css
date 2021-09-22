@@ -422,6 +422,15 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 0;
 }
+.imgpadding{
+   padding-right: 200px;
+
+    
+}
+
+
+
+
 
 #hero:before {
   content: "";
@@ -962,7 +971,7 @@ section {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
-  background: #fff;
+  background:#FFA500;
 }
 
 .services .icon-box i {
