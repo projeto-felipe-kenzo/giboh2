@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color:#15222b;
 }
 
 a {
@@ -24,6 +24,11 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
+}
+
+
+
+
 }
 
 /*--------------------------------------------------------------
@@ -971,7 +976,7 @@ section {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
-  background:#FFA500;
+   background: url("../img/Cry_baby_cover.jpg");
 }
 
 .services .icon-box i {
@@ -988,7 +993,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #365870;
+  color: #fff;
   transition: 0.3s;
 }
 
@@ -1003,7 +1008,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #FFD700;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
