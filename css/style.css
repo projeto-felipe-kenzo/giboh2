@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color:#15222b;
 }
 
 a {
@@ -24,6 +24,11 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
+}
+
+
+
+
 }
 
 /*--------------------------------------------------------------
@@ -422,6 +427,15 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 0;
 }
+.imgpadding{
+   padding-right: 200px;
+
+    
+}
+
+
+
+
 
 #hero:before {
   content: "";
@@ -962,7 +976,7 @@ section {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
-  background: #fff;
+   background: url("../img/Cry_baby_cover.jpg");
 }
 
 .services .icon-box i {
@@ -979,7 +993,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #365870;
+  color: #fff;
   transition: 0.3s;
 }
 
@@ -994,7 +1008,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #FFD700;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -1002,7 +1016,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/loves.png") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1015,7 +1029,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(13, 20, 26, 0.7);
+  background: rgba(221,160,221, 0.7);
 }
 
 .testimonials .section-header {
