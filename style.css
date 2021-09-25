@@ -59,6 +59,14 @@ h1, h2, h3, h4, h5, h6 {
   background: #ff5e31;
   color: #fff;
 }
+.imgmel{
+      width: 50%;
+      border: 5px dashed #fff;
+      border-radius: 50%;
+}
+figure{
+  text-align: center;
+}
 
 /*--------------------------------------------------------------
 # Preloader
@@ -125,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(21, 34, 43, 0.85);
+  background: rgba(221,160,221, 0.8);
   padding: 12px 0;
 }
 
@@ -139,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: #221,160,221;
 }
 
 #header .logo img {
@@ -1569,15 +1577,15 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #121d24;
+  background: #DDA0DD;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #15222b;
-  border-bottom: 1px solid #1d303c;
+  background: #DDA0DD;
+  border-bottom: 1px solid #DDA0DD;
   padding: 60px 0 30px 0;
 }
 
