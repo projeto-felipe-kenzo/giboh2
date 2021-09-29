@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .imgmel{
       width: 50%;
-      border: 5px dashed #fff;
+      border: 5px double #ff5e31;
       border-radius: 50%;
 }
 figure{
@@ -430,7 +430,7 @@ figure{
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/inferno.jpg") top center;
+  background: url("../img/melanie222.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -905,7 +905,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("../img/inferno.jpg");
+  background: url("../img/Cry_baby_cover.jpg");
 }
 
 .features .nav-link i {
